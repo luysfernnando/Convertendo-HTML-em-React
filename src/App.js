@@ -5,7 +5,6 @@ import Portofolio from "./Portofolio";
 import Sobre from "./Sobre";
 import Contato from "./Contato";
 import Rodape from "./Rodape";
-//import Site from "./Site";
 
 function App() {
   return (
