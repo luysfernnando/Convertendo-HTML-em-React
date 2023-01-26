@@ -1,5 +1,5 @@
 import React from "react";
-import './estilos/Sobre.css';
+import '../estilos/Sobre.css';
 
 const Sobre = props => {
     return (
@@ -7,10 +7,10 @@ const Sobre = props => {
             {/* Images of Me */}
             <div className='w3-row-padding w3-padding-16' id='about'>
                 <div className='w3-col m6'>
-                    <img src={require('./imagens/avatar_g.jpg')} alt='Me' width='100%' />
+                    <img src={require('../imagens/avatar_g.jpg')} alt='Me' width='100%' />
                 </div>
                 <div className='w3-col m6'>
-                    <img src={require('./imagens/me2.jpg')} alt='Me' width='100%' />
+                    <img src={require('../imagens/me2.jpg')} alt='Me' width='100%' />
                 </div>
             </div>
 

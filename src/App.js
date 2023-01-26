@@ -1,10 +1,10 @@
 import './estilos/App.css';
-import Menu from "./Menu";
-import Cabecalho from "./Cabecalho";
-import Portofolio from "./Portofolio";
-import Sobre from "./Sobre";
-import Contato from "./Contato";
-import Rodape from "./Rodape";
+import Menu from "./modulos/1-Menu";
+import Cabecalho from "./modulos/2-Cabecalho";
+import Portofolio from "./modulos/3-Portofolio";
+import Sobre from "./modulos/4-Sobre";
+import Contato from "./modulos/5-Contato";
+import Rodape from "./modulos/6-Rodape";
 
 function App() {
   return (

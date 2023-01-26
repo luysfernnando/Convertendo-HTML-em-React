@@ -1,5 +1,5 @@
 import React from 'react';
-import './estilos/Rodape.css';
+import '../estilos/Rodape.css';
 
 const Rodape = props => {
     return (
@@ -18,12 +18,12 @@ const Rodape = props => {
                             <h3>BLOG POSTS</h3>
                             <ul className='w3-ul w3-hoverable' id='escritas_centro_rodape'>
                                 <li className='w3-padding-16'>
-                                    <img src={require('./imagens/workshop.jpg')} alt='Post 1' className='w3-left w3-margin-right' width='50px' />
+                                    <img src={require('../imagens/workshop.jpg')} alt='Post 1' className='w3-left w3-margin-right' width='50px' />
                                     <span className='w3-large' id='escritas_centro_rodape'>Lorem</span><br />
                                     <span>Sed mattis nunc</span>
                                 </li>
                                 <li className='w3-padding-16'>
-                                    <img src={require('./imagens/gondol.jpg')} alt='Post 2' className='w3-left w3-margin-right' width='50px' />
+                                    <img src={require('../imagens/gondol.jpg')} alt='Post 2' className='w3-left w3-margin-right' width='50px' />
                                     <span className='w3-large'>Ipsum</span><br />
                                     <span>Praes tinci sed</span>
                                 </li>

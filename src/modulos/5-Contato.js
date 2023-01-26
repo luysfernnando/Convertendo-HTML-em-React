@@ -1,5 +1,5 @@
 import React from "react";
-import './estilos/Contato.css';
+import '../estilos/Contato.css';
 
 const Contato = props => {
     return (
