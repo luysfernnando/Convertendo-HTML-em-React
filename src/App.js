@@ -9,12 +9,12 @@ import Rodape from "./Rodape";
 function App() {
   return (
     <div className="App">
-    <Menu />
-    <Cabecalho />
-    <Portofolio />
-    <Sobre />
-    <Contato />
-    <Rodape />
+      <Menu />
+      <Cabecalho />
+      <Portofolio />
+      <Sobre />
+      <Contato />
+      <Rodape />
     </div>
   );
 }

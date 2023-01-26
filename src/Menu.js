@@ -12,7 +12,7 @@ const Menu = props => {
     return (
         <div>
             {/* Sidebar/menu */}
-            <nav className='w3-sidebar w3-collapse w3-white w3-animate-left' style={{ zIndex: '3', width: '300px'}} id='mySidebar'><br />
+            <nav className='w3-sidebar w3-collapse w3-white w3-animate-left' style={{ zIndex: '3', width: '300px' }} id='mySidebar'><br />
                 <div className='w3-container'>
                     <a href='#' onclick={w3_close} className='w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey'
                         title='close menu'>
