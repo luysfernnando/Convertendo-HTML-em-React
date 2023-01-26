@@ -3,6 +3,7 @@ import Menu from "./Menu";
 import Cabecalho from "./Cabecalho";
 import Portofolio from "./Portofolio";
 import Sobre from "./Sobre";
+import Contato from "./Contato";
 //import Site from "./Site";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
     <Cabecalho />
     <Portofolio />
     <Sobre />
+    <Contato />
     </div>
   );
 }
