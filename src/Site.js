@@ -4,13 +4,13 @@ const Site = props => {
     return (
         <div>
             {/* Sidebar/menu */}
-  <nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br>
+  <nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br/>
     <div class="w3-container">
       <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey"
         title="close menu">
         <i class="fa fa-remove"></i>
       </a>
-      <img src="./base_arquivos/avatar_g2.jpg" style="width:45%;" class="w3-round"><br><br>
+      <img src="./base_arquivos/avatar_g2.jpg" style="width:45%;" class="w3-round"><br/><br/>
       <h4><b>PORTFOLIO</b></h4>
       <p class="w3-text-grey">Template by W3.CSS</p>
     </div>
@@ -272,12 +272,12 @@ const Site = props => {
           <ul class="w3-ul w3-hoverable">
             <li class="w3-padding-16">
               <img src="./base_arquivos/workshop.jpg" class="w3-left w3-margin-right" style="width:50px">
-              <span class="w3-large">Lorem</span><br>
+              <span class="w3-large">Lorem</span><br/>
               <span>Sed mattis nunc</span>
             </li>
             <li class="w3-padding-16">
               <img src="./base_arquivos/gondol.jpg" class="w3-left w3-margin-right" style="width:50px">
-              <span class="w3-large">Ipsum</span><br>
+              <span class="w3-large">Ipsum</span><br/>
               <span>Praes tinci sed</span>
             </li>
           </ul>
