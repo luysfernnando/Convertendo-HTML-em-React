@@ -2,7 +2,7 @@ import React from "react";
 
 const Portofolio = props => {
     return (
-        <div>
+        <div className='w3-main' style={{marginLeft: '300px'}}>
             {/* First Photo Grid*/}
             <div className='w3-row-padding'>
                     <div className='w3-third w3-container w3-margin-bottom'>

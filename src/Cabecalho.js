@@ -1,5 +1,7 @@
 
 import React from 'react';
+import './estilos/Cabecalho.css';
+
 const Menu = props => {
 
     // Script to open sidebar

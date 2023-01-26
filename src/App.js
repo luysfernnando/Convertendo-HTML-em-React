@@ -1,7 +1,8 @@
-import './App.css';
+import './estilos/App.css';
 import Menu from "./Menu";
 import Cabecalho from "./Cabecalho";
 import Portofolio from "./Portofolio";
+import Sobre from "./Sobre";
 //import Site from "./Site";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <Menu />
     <Cabecalho />
     <Portofolio />
+    <Sobre />
     </div>
   );
 }

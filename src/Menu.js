@@ -1,4 +1,6 @@
 import React from 'react';
+import './estilos/Menu.css';
+
 const Menu = props => {
 
     // Script to close sidebar
@@ -29,12 +31,12 @@ const Menu = props => {
                         className='fa fa-envelope fa-fw w3-margin-right'></i>CONTACT</a>
                 </div>
                 <div className='w3-panel w3-large'>
-                    <i className='fa fa-facebook-official w3-hover-opacity'></i>
-                    <i className='fa fa-instagram w3-hover-opacity'></i>
-                    <i className='fa fa-snapchat w3-hover-opacity'></i>
-                    <i className='fa fa-pinterest-p w3-hover-opacity'></i>
-                    <i className='fa fa-twitter w3-hover-opacity'></i>
-                    <i className='fa fa-linkedin w3-hover-opacity'></i>
+                    <i className='fa fa-facebook-official w3-hover-opacity' id='icones'></i>
+                    <i className='fa fa-instagram w3-hover-opacity' id='icones'></i>
+                    <i className='fa fa-snapchat w3-hover-opacity' id='icones'></i>
+                    <i className='fa fa-pinterest-p w3-hover-opacity' id='icones'></i>
+                    <i className='fa fa-twitter w3-hover-opacity' id='icones'></i>
+                    <i className='fa fa-linkedin w3-hover-opacity' id='icones'></i>
                 </div>
             </nav>
 
