@@ -1,4 +1,4 @@
-# Site em HTML e CSS convertido em React
+# Site em HTML e CSS convertido para React
 
 * Site originalmente feito com HTML, CSS e W3.CSS (Framework).
 
