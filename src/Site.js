@@ -10,7 +10,7 @@ const Site = props => {
         title="close menu">
         <i class="fa fa-remove"></i>
       </a>
-      <img src="./base_arquivos/avatar_g2.jpg" style="width:45%;" class="w3-round"><br/><br/>
+      <img src="./base_arquivos/avatar_g2.jpg" style="width:45%;" class="w3-round"/><br/><br/>
       <h4><b>PORTFOLIO</b></h4>
       <p class="w3-text-grey">Template by W3.CSS</p>
     </div>
@@ -42,7 +42,7 @@ const Site = props => {
     {/* Header */}
     <header id="portfolio">
       <a href="#"><img src="./base_arquivos/avatar_g2.jpg" style="width:65px;"
-          class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
+          class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"/></a>
       <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i
           class="fa fa-bars"></i></span>
       <div class="w3-container">
@@ -60,7 +60,7 @@ const Site = props => {
     {/* First Photo Grid*/}
     <div class="w3-row-padding">
       <div class="w3-third w3-container w3-margin-bottom">
-        <img src="./base_arquivos/mountains.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+        <img src="./base_arquivos/mountains.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity"/>
         <div class="w3-container w3-white">
           <p><b>Lorem Ipsum</b></p>
           <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue
@@ -68,7 +68,7 @@ const Site = props => {
         </div>
       </div>
       <div class="w3-third w3-container w3-margin-bottom">
-        <img src="./base_arquivos/lights.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+        <img src="./base_arquivos/lights.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity"/>
         <div class="w3-container w3-white">
           <p><b>Lorem Ipsum</b></p>
           <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue
@@ -76,7 +76,7 @@ const Site = props => {
         </div>
       </div>
       <div class="w3-third w3-container">
-        <img src="./base_arquivos/nature.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+        <img src="./base_arquivos/nature.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity"/>
         <div class="w3-container w3-white">
           <p><b>Lorem Ipsum</b></p>
           <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue
@@ -88,7 +88,7 @@ const Site = props => {
     {/* Second Photo Grid*/}
     <div class="w3-row-padding">
       <div class="w3-third w3-container w3-margin-bottom">
-        <img src="./base_arquivos/p1.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+        <img src="./base_arquivos/p1.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity"/>
         <div class="w3-container w3-white">
           <p><b>Lorem Ipsum</b></p>
           <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue
@@ -96,7 +96,7 @@ const Site = props => {
         </div>
       </div>
       <div class="w3-third w3-container w3-margin-bottom">
-        <img src="./base_arquivos/p2.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+        <img src="./base_arquivos/p2.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity"/>
         <div class="w3-container w3-white">
           <p><b>Lorem Ipsum</b></p>
           <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue
@@ -104,7 +104,7 @@ const Site = props => {
         </div>
       </div>
       <div class="w3-third w3-container">
-        <img src="./base_arquivos/p3.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+        <img src="./base_arquivos/p3.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity"/>
         <div class="w3-container w3-white">
           <p><b>Lorem Ipsum</b></p>
           <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue
@@ -128,10 +128,10 @@ const Site = props => {
     {/* Images of Me */}
     <div class="w3-row-padding w3-padding-16" id="about">
       <div class="w3-col m6">
-        <img src="./base_arquivos/avatar_g.jpg" alt="Me" style="width:100%">
+        <img src="./base_arquivos/avatar_g.jpg" alt="Me" style="width:100%"/>
       </div>
       <div class="w3-col m6">
-        <img src="./base_arquivos/me2.jpg" alt="Me" style="width:100%">
+        <img src="./base_arquivos/me2.jpg" alt="Me" style="width:100%"/>
       </div>
     </div>
 
@@ -271,12 +271,12 @@ const Site = props => {
           <h3>BLOG POSTS</h3>
           <ul class="w3-ul w3-hoverable">
             <li class="w3-padding-16">
-              <img src="./base_arquivos/workshop.jpg" class="w3-left w3-margin-right" style="width:50px">
+              <img src="./base_arquivos/workshop.jpg" class="w3-left w3-margin-right" style="width:50px"/>
               <span class="w3-large">Lorem</span><br/>
               <span>Sed mattis nunc</span>
             </li>
             <li class="w3-padding-16">
-              <img src="./base_arquivos/gondol.jpg" class="w3-left w3-margin-right" style="width:50px">
+              <img src="./base_arquivos/gondol.jpg" class="w3-left w3-margin-right" style="width:50px"/>
               <span class="w3-large">Ipsum</span><br/>
               <span>Praes tinci sed</span>
             </li>
