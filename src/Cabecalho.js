@@ -9,10 +9,10 @@ const Menu = props => {
     }
 
     return (
-        <div className='w3-main' style={{marginleft: '300px'}}>
+        <div className='w3-main' style={{marginLeft: '300px'}}>
             {/* Header */}
             <header id='portfolio'>
-                <a href='#'><img src={('./base_arquivos/avatar_g2.jpg')} width='65px'
+                <a href='#'><img src={require('./html/base_arquivos/avatar_g2.jpg')} width='65px'
                     className='w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity' /></a>
                 <span className='w3-button w3-hide-large w3-xxlarge w3-hover-text-grey' onclick={w3_open}><i
                     className='fa fa-bars'></i></span>
