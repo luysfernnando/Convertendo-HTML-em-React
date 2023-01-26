@@ -1,6 +1,5 @@
-
 import React from 'react';
-import '../estilos/Cabecalho.css';
+import '../estilos/Estilo.css';
 
 const Menu = props => {
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../estilos/Rodape.css';
+import '../estilos/Estilo.css';
 
 const Rodape = props => {
     return (

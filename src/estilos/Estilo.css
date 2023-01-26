@@ -1,0 +1,66 @@
+/* TODO O SITE */
+h4 {
+    text-align: left;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Raleway", sans-serif;
+}
+
+p {
+    font-family: "Raleway", sans-serif;
+    text-align: left
+}
+
+
+/* 1- Menu */
+#mySidebar {
+    font-family: "Raleway", sans-serif;
+    text-align: left
+}
+
+#icones {
+    margin-right: 1.7%;
+}
+
+
+/* 2- Cabecalho */
+#portfolio {
+    font-family: "Raleway", sans-serif;
+    text-align: left
+}
+
+
+/* 3- Portofolio */
+/* 4- Sobre */
+
+/* 5- Contato */
+#icones_contato{
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+}
+
+#campos_contato {
+    text-align: left;
+    font-family: "Raleway", sans-serif;
+}
+
+
+/* 6- Rodape */
+.w3-left.w3-margin-right {
+    width: 50px;
+}
+
+#tags, h3, p, span {
+    text-align: left;
+}
+
+#escritas_centro_rodape {
+    text-align: left;
+}

@@ -1,5 +1,5 @@
 import React from "react";
-import '../estilos/Sobre.css';
+import '../estilos/Estilo.css';
 
 const Sobre = props => {
     return (
