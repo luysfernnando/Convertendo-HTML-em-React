@@ -6,7 +6,7 @@ const Portofolio = props => {
             {/* First Photo Grid*/}
             <div className='w3-row-padding'>
                 <div className='w3-third w3-container w3-margin-bottom'>
-                    <img src={require('./html/base_arquivos/mountains.jpg')} alt='Norway' width='100%' className='w3-hover-opacity' />
+                    <img src={require('./imagens/mountains.jpg')} alt='Norway' width='100%' className='w3-hover-opacity' />
                     <div className='w3-container w3-white'>
                         <p><b>Lorem Ipsum</b></p>
                         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue
@@ -14,7 +14,7 @@ const Portofolio = props => {
                     </div>
                 </div>
                 <div className='w3-third w3-container w3-margin-bottom'>
-                    <img src={require('./html/base_arquivos/lights.jpg')} alt='Norway' width='100%' className='w3-hover-opacity' />
+                    <img src={require('./imagens/lights.jpg')} alt='Norway' width='100%' className='w3-hover-opacity' />
                     <div className='w3-container w3-white'>
                         <p><b>Lorem Ipsum</b></p>
                         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue
@@ -22,7 +22,7 @@ const Portofolio = props => {
                     </div>
                 </div>
                 <div className='w3-third w3-container'>
-                    <img src={require('./html/base_arquivos/nature.jpg')} alt='Norway' width='100%' className='w3-hover-opacity' />
+                    <img src={require('./imagens/nature.jpg')} alt='Norway' width='100%' className='w3-hover-opacity' />
                     <div className='w3-container w3-white'>
                         <p><b>Lorem Ipsum</b></p>
                         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue
@@ -34,7 +34,7 @@ const Portofolio = props => {
             {/* Second Photo Grid*/}
             <div className='w3-row-padding'>
                 <div className='w3-third w3-container w3-margin-bottom'>
-                    <img src={require('./html/base_arquivos/p1.jpg')} alt='Norway' width='100%' className='w3-hover-opacity' />
+                    <img src={require('./imagens/p1.jpg')} alt='Norway' width='100%' className='w3-hover-opacity' />
                     <div className='w3-container w3-white'>
                         <p><b>Lorem Ipsum</b></p>
                         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue
@@ -42,7 +42,7 @@ const Portofolio = props => {
                     </div>
                 </div>
                 <div className='w3-third w3-container w3-margin-bottom'>
-                    <img src={require('./html/base_arquivos/p2.jpg')} alt='Norway' width='100%' className='w3-hover-opacity' />
+                    <img src={require('./imagens/p2.jpg')} alt='Norway' width='100%' className='w3-hover-opacity' />
                     <div className='w3-container w3-white'>
                         <p><b>Lorem Ipsum</b></p>
                         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue
@@ -50,7 +50,7 @@ const Portofolio = props => {
                     </div>
                 </div>
                 <div className='w3-third w3-container'>
-                    <img src={require('./html/base_arquivos/p3.jpg')} alt='Norway' width='100%' className='w3-hover-opacity' />
+                    <img src={require('./imagens/p3.jpg')} alt='Norway' width='100%' className='w3-hover-opacity' />
                     <div className='w3-container w3-white'>
                         <p><b>Lorem Ipsum</b></p>
                         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue

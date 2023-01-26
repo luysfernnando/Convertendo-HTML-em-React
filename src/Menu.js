@@ -18,7 +18,7 @@ const Menu = props => {
                         title='close menu'>
                         <i className='fa fa-remove'></i>
                     </a>
-                    <img src={require('./html/base_arquivos/avatar_g2.jpg')} width='45%' className='w3-round' /><br /><br />
+                    <img src={require('./imagens/avatar_g2.jpg')} width='45%' className='w3-round' /><br /><br />
                     <h4><b>PORTFOLIO</b></h4>
                     <p className='w3-text-grey'>Template by W3.CSS</p>
                 </div>
