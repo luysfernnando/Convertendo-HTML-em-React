@@ -142,7 +142,7 @@ const Site = props => {
         Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla. Praesent tincidunt
         sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non
         fringilla.</p>
-      <hr>
+      <hr/>
 
       <h4>Technical Skills</h4>
       {/* Progress bars / Skills */}
@@ -163,7 +163,7 @@ const Site = props => {
           <i class="fa fa-download w3-margin-right"></i>Download Resume
         </button>
       </p>
-      <hr>
+      <hr/>
 
       <h4>How much I charge</h4>
       {/* Pricing Tables */}
@@ -238,7 +238,7 @@ const Site = props => {
           <p>512312311</p>
         </div>
       </div>
-      <hr class="w3-opacity">
+      <hr class="w3-opacity"/>
       <form action="/action_page.php" target="_blank">
         <div class="w3-section">
           <label>Name</label>
