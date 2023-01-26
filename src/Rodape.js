@@ -11,7 +11,7 @@ const Rodape = props => {
                             <h3>FOOTER</h3>
                             <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue
                                 gravida diam non fringilla.</p>
-                            <p>Powered by <a href='https://www.w3schools.com/w3css/default.asp' target='_blank'>w3.css</a></p>
+                            <p>Powered by <a href='https://www.w3schools.com/w3css/default.asp' target='_blank' rel="noreferrer">w3.css</a></p>
                         </div>
 
                         <div className='w3-third'>
@@ -54,7 +54,7 @@ const Rodape = props => {
                 </footer>
 
                 <div className='w3-black w3-center w3-padding-24'>Powered by <a href='https://www.w3schools.com/w3css/default.asp'
-                    title='W3.CSS' target='_blank' className='w3-hover-opacity'>w3.css</a></div>
+                    title='W3.CSS' target='_blank' rel="noreferrer" className='w3-hover-opacity'>w3.css</a></div>
 
                 {/* End page content */}
         </div>
