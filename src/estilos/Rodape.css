@@ -1,0 +1,16 @@
+p {
+    font-family: "Raleway", sans-serif;
+    text-align: left;
+}
+
+.w3-left.w3-margin-right {
+    width: 50px;
+}
+
+#tags, h3, p, span {
+    text-align: left;
+}
+
+#escritas_centro_rodape {
+    text-align: left;
+}
